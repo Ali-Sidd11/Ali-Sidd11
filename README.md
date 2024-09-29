@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ali-Sidd11
-- 👀 I’m a University student studying Computer Science 
+- 👀 I’m a University student studying Computer Science
+- I am experienced with programming in Python, C++, Java, and JavaScript.  
 - ⚡ Fun fact: I am based out of Colorado
 
 <!---
